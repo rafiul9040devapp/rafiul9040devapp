@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **BLOC**
 
-- 👨‍💻 App link: **https://play.google.com/store/apps/details?id=com.walletmix.superapplication&hl=en**
+- 👨‍💻 App link: [Google Play](https://play.google.com/store/apps/details?id=com.walletmix.superapplication&hl=en)
 
 - 💬 Ask me about **Java, Kotlin, Dart, Android**
 
@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafiul9040devapp&show_icons=true&locale=en" alt="rafiul9040devapp" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rafiul9040devapp&" alt="rafiul9040devapp" /></p>
-
