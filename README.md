@@ -19,7 +19,7 @@
 ---
 
 ### 🌟 **Projects Highlights**
-📲 **WalletMix Business**: Scalable, intuitive, and live on **[Google Play]([https://play.google.com/store/apps/details?id=com.walletmix.superapplication&hl=en](https://play.google.com/store/apps/details?id=com.walletmix.paymixbusiness&hl=en))**!  
+📲 WalletMix Business: Scalable, intuitive, and live on [Google Play](https://play.google.com/store/apps/details?id=com.walletmix.paymixbusiness&hl=en)
 
 ---
 
